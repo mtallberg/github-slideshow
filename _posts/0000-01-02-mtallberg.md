@@ -2,6 +2,6 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-I hope I'm doing this correctly since it doesn't tell you how to add 
+Don't let me die with that silly look in my eyes - Mike Patton Faith No More 
 Use your left arrow to go back!
 
